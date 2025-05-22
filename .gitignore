@@ -2,7 +2,7 @@
 __pycache__
 dist/
 *.pyc
-.venv/
+my_env/
 .coverage
 coverage.xml
 .pytest_cache/
